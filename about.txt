@@ -3,3 +3,5 @@
 This portfolio allows game developers to highlight their expertise, featuring sections for game projects, development tools, and skills. Interactive elements, powered by JavaScript, may include modal pop-ups with detailed project descriptions, a gallery of game screenshots, or even playable mini-games directly on the portfolio page. The overall design is likely to reflect the creative and dynamic nature of game development, with a focus on providing a memorable and immersive user experience.
 
 In essence, the Game Developer Portfolio project demonstrates the synergy of HTML, CSS, and JavaScript to create an engaging and visually striking platform for showcasing a game developer's talents and projects in the world of interactive entertainment.
+
+Potfolio describes your contribution towards game development.
